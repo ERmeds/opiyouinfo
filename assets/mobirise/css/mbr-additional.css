@@ -1805,12 +1805,24 @@ body {
   -webkit-align-self: flex-start;
   align-self: flex-start;
   padding-left: 4rem;
+  padding-left: 0;
+  padding-right: 4rem;
+}
+.cid-qGDQ562H2E .media-container-row {
+  -webkit-flex-direction: row-reverse;
+  flex-direction: row-reverse;
 }
 @media (max-width: 991px) {
+  .cid-qGDQ562H2E .media-container-row {
+    -webkit-flex-direction: column-reverse;
+    flex-direction: column-reverse;
+  }
   .cid-qGDQ562H2E .mbr-figure {
     padding-right: 0;
     padding-left: 0;
     padding-top: 2rem;
+    padding-top: 0;
+    padding-bottom: 2rem;
   }
 }
 .cid-qGDQ562H2E .panel-text {
