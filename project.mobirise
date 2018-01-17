@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "morphine.html",
+    "currentPage": "home.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 81,
     "versionPublish": "4.5.4",
